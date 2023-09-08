@@ -17,5 +17,6 @@ public class Testlogin extends Base{
 		lg.name();
 		lg.password();
 		lg.submit();
+		System.out.println("hr project");
 	}
 }
